@@ -1,2 +1,2 @@
 # Automatic-python
-# 没有mysql制作
+# mysql功能还没制作完成
